@@ -1,7 +1,7 @@
 # 📌 EC7212 — Computer Vision and Image Processing  
 ## 📝 Take Home Assignment 1  
 
-This repository contains Python code in a Jupyter Notebook (`assignment.ipynb`) that performs basic image processing operations on **color images**.  
+This repository contains Python code in a Jupyter Notebook (`Assignment.ipynb`) that performs basic image processing operations on **grayscale images**.  
 It was developed as part of the *EC7212 – Computer Vision and Image Processing* coursework.  
 
 ---
@@ -33,7 +33,7 @@ It was developed as part of the *EC7212 – Computer Vision and Image Processing
 1️⃣ Clone this repository:  
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+cd Image-Processing-Assignment1
 ```
 2️⃣ Open the notebook:
 ```bash
