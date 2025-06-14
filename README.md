@@ -32,7 +32,7 @@ It was developed as part of the *EC7212 – Computer Vision and Image Processing
 ## 🚀 How to Run  
 1️⃣ Clone this repository:  
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/shahmi0519/Image-Processing-Assignment1.git
 cd Image-Processing-Assignment1
 ```
 2️⃣ Open the notebook:
